@@ -1,0 +1,84 @@
+@media screen and (max-width: 320px) {
+
+  #call_to_action {
+    font-size: 18px;
+  }
+
+  .header {
+    height: 70px;
+  }
+
+  [class*="card-title"] {
+    font-size: 18px;
+    margin: 10px;
+    width: calc(100% - 20px);
+  }
+
+  .card-title > section.button-titles {
+    height: 55px;
+  }
+
+  .card-title > section.text-titles {
+    height: 200px;
+    padding: 20px;
+  }
+
+  .col-contact-us {
+    margin-right: 100px;
+    width: calc(100% - 100px);
+  }
+
+  .col-what-we-do {
+    margin: 0;
+    width: 100%;
+  }
+
+  .col-footer {
+    height: 150px;
+  }
+
+  .col-footer > p {
+    font-size: 18px;
+    margin-top: 55px;
+  }
+
+  p.text-c-u,
+  p.text-w-w-d {
+    font-size: 18px;
+  }
+
+  .col-logo {
+    font-size: 26px;
+    margin-top: 13px;
+    margin-left: 0px;
+    width: 60%;
+  }
+
+  .col-menu {
+    display: none;
+  }
+
+  .col-space-header {
+    width: 40%;
+  }
+
+  .find-out-more {
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    padding: 8px;
+  }
+
+  .photo-tagline {
+    background-size: 330%;
+    background-position: center;
+    height: 350px;
+    opacity: .6;
+    width: 100%;
+  }
+
+  .tittle {
+    font-size: 30px;
+  }
+
+}
