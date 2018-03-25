@@ -127,7 +127,7 @@ p {
 }
 
 .photo-tagline {
-  background-image: url("http://dummyimage.com/1920x400");
+  background-image: url("assets/photo_tagline_trollhunters.jpg");
   background-size: 100%;
   height: 280px;
   opacity: .6;
